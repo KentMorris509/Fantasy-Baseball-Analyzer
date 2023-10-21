@@ -1,0 +1,1 @@
+In this project I created a GUI interface that display's a baseball players statistics and analysis from the last 5 years of their MLB seasons.
